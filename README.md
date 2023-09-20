@@ -6,7 +6,12 @@ El uso es completamente gratuito, pero con mucho ping.
 
 Todo esto depende de Internet Archive: web.archive.org
 
-Plataformas recomendadas:
+## Cómo instalar?
+
+#### 1º, Clona el repositorio:
+` git clone https://github.com/Danucosukosuko/WayBackProxy `
+
+# Plataformas recomendadas:
 
 | Plataformas  |         ¿Recomendado?|
 |--------------|--------------|
