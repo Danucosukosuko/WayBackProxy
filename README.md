@@ -11,10 +11,14 @@ Todo esto depende de Internet Archive: web.archive.org
 #### 1º, Clona el repositorio:
 ` git clone https://github.com/Danucosukosuko/WayBackProxy `
 
+#### 2º Accede al directorio del repositorio
+
+` cd WayBackProxy `
+
 # Plataformas recomendadas:
 
 | Plataformas  |         ¿Recomendado?|
 |--------------|--------------|
 | Windows             | Recomendado si es la versión Windows Server  |
 | macOS                | No                                          |
-| Raspbian (Linux)     | Recomendado para la mayoría de usos         |
+| Raspbian o Linux     | Recomendado para la mayoría de usos         |
