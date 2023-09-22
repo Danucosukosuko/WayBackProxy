@@ -1,5 +1,5 @@
 # WayBackProxy
-Un programa escrito en Python que permite acceder a la web del año 2011 suergiéndote en una experiencia "Retro-Friendly" para ordenadores antiguos
+Un programa escrito en Python que permite acceder a la web del año 2011 (Configurable el año en el .py) suergiéndote en una experiencia "Retro-Friendly" para ordenadores antiguos o para entusiastas de lo retro.
 
 ### Uso y plataformas recomendadas:
 El uso es completamente gratuito, pero con mucho ping.
