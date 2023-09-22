@@ -36,6 +36,8 @@ sudo systemctl daemon-reload
 # Inicia el servicio
 sudo systemctl start proxy_server
 
+pip -r requirements.txt
+
 # Limpia la pantalla y muestra el mensaje de instalación correcta
 clear
 echo "╔══════════════════════════╗"
