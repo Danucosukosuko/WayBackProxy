@@ -15,6 +15,12 @@ Todo esto depende de Internet Archive: web.archive.org
 
 ` cd WayBackProxy `
 
+#### 3º ejecuta proxy_server.py
+` python proxy_server.py `
+
+#### Ahora vete a la configuración de proxys de tu PC o de las opciones de internet de Internet explorer
+Para más nostalgia o simplemente por ver la web retro por curiosidad, use en Windows 95 al Windows 7
+
 # Plataformas recomendadas:
 
 | Plataformas  |         ¿Recomendado?|
