@@ -1,3 +1,6 @@
+# Script de instalación del proxy de la nostalgia
+# Para Windows
+
 # Pantalla de inicio
 Clear-Host
 Write-Host "╔════════════════════════╗"
