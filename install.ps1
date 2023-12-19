@@ -25,6 +25,8 @@ New-Service -Name "ProxyService" -BinaryPathName "$scriptPath\proxy_server.py" -
 # Inicia el servicio
 Start-Service -Name "ProxyService"
 
+pip -r requirements.txt
+
 # Limpia la pantalla y muestra el mensaje de instalación correcta
 Clear-Host
 Write-Host "╔══════════════════════════╗"
