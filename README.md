@@ -40,5 +40,5 @@ Significa por su propio error que la web no se encuentra en la WayBack Machine
 | Plataformas  |         ¿Recomendado?|
 |--------------|--------------|
 | Windows             | Recomendado si es la versión Windows Server  |
-| macOS                | No                                          |
+| macOS                | No recomendado a no ser que sea macOS Server                                          |
 | Raspbian o Linux     | Recomendado para la mayoría de usos         |
