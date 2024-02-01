@@ -21,6 +21,11 @@ Todo esto depende de Internet Archive: web.archive.org
 #### Ahora vete a la configuración de proxys de tu PC o de las opciones de internet de Internet explorer
 Para más nostalgia o simplemente por ver la web retro por curiosidad, use en Windows 95 al Windows 7
 
+![image](https://github.com/Danucosukosuko/WayBackProxy/assets/71569318/788e91c7-c47e-4444-a0ea-64c9b6ff1b9c)
+
+Si te tira este error, se supone que debería estar cargando la web
+
+
 # Plataformas recomendadas:
 
 | Plataformas  |         ¿Recomendado?|
