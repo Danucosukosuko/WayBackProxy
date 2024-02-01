@@ -28,6 +28,7 @@ Si te tira este error, se supone que debería estar cargando la web. Si no, comp
 # Solución de errores
 
 Si te tira:
+
 ![image](https://github.com/Danucosukosuko/WayBackProxy/assets/71569318/6a2ddc67-66f9-420d-aa52-12aa9966a6a1)
 
 Significa por su propio error que la web no se encuentra en la WayBack Machine
