@@ -23,7 +23,14 @@ Para más nostalgia o simplemente por ver la web retro por curiosidad, use en Wi
 
 ![image](https://github.com/Danucosukosuko/WayBackProxy/assets/71569318/788e91c7-c47e-4444-a0ea-64c9b6ff1b9c)
 
-Si te tira este error, se supone que debería estar cargando la web
+Si te tira este error, se supone que debería estar cargando la web. Si no, compruebe la configuración de Proxy de su PC.
+
+# Solución de errores
+
+Si te tira:
+![image](https://github.com/Danucosukosuko/WayBackProxy/assets/71569318/6a2ddc67-66f9-420d-aa52-12aa9966a6a1)
+Significa por su propio error que la web no se encuentra en la WayBack Machine
+
 
 
 # Plataformas recomendadas:
